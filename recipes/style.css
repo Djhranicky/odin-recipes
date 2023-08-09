@@ -1,0 +1,30 @@
+img {
+  height: 400px;
+  width: 400px;
+}
+
+body {
+  background-color: blue;
+  color: orange;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+.text {
+  font-size: 20px;
+  color: yellow;
+}
+
+* {
+  border: 2px solid black;
+}
