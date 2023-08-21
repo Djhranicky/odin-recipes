@@ -1,8 +1,28 @@
 body {
     color: white;
-    background-color: black;
+    background-color: #1f1f1f;
 }
 
 a {
-    color: red;
+    color: blue;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    font-size: 36pt;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    border: 2px solid red;
+    width: 400px;
+}
+
+th {
+    margin: 0;
+    border: 2px solid blue;
 }
